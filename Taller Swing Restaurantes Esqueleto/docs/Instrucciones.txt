@@ -1,0 +1,6 @@
+Instrucciones:
+
+Para correr la aplicación toca abrir el proyecto en Eclipse, una vez abierto, buscar la clase VentanaPrincipal dentro del paquete
+uniandes.dpoo.swing.interfaz.principal, correr la clase dandole clic derecho -> Run As -> Java Application, y se abre la ventana principal
+del negocio con la lista de restaurantes, desde ahí se pueden ver los restaurantes existentes, agregar un restaurante en una ventana nueva,
+y abrir el mapa para ver dónde están ubicados todos los restaurantes.
